@@ -10,7 +10,7 @@
         -Intercalação Balanceada;
         -Teoria de Grafos;
         -Propriedades e uso de Grafos;
-        -Percurso em ghrafos
+        -Percurso em Grafos
     
   
   
