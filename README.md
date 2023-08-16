@@ -2,8 +2,8 @@
 
 ## Tópicos:
 
-        -Conceito de árvore;
-        -Leitura e Impressão de uma árvore;
+        -Conceito de Árvore;
+        -Leitura e Impressão de uma Árvore;
         -Árvore B;
         -Árvore B+;
         -QuickSort Externo;
