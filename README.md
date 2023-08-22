@@ -29,11 +29,11 @@ Existem várias razões pelas quais usamos essa estrutura de dados. Ela nos perm
 
    Além disso, é importante lembrar alguns conceitos-chave relacionados à classificação de árvores e nós:
 
--Nível de um nó: É a distância entre um nó "x" e a raiz da árvore.
+   -Nível de um nó: É a distância entre um nó "x" e a raiz da árvore.
 
--Altura de um nó: É a distância entre a raiz da árvore e a folha mais distante que pode ser alcançada a partir desse nó.
+   -Altura de um nó: É a distância entre a raiz da árvore e a folha mais distante que pode ser alcançada a partir desse nó.
 
--Grau de um nó: Refere-se à quantidade de filhos que um nó possui.
+   -Grau de um nó: Refere-se à quantidade de filhos que um nó possui.
 
 Existem muitos tipos diferentes de árvores, mas em Estrutura de Dados II, focaremos principalmente na ideia das árvores B e B+.
           
