@@ -1,10 +1,9 @@
 # Estrutura-de-Dados-II
 
-## Tópicos:
-
-      
+## Tópicos:     
 [Conceito de Árvore](#conceito-de-árvore) 
-[Leitura e Impressão de uma Árvore](#leitura-e-impressão-de-uma-árvore
+
+[Leitura e Impressão de uma Árvore](#leitura-e-impressão-de-uma-árvore)
 
 [Árvore B](#árvore-b)
 
