@@ -3,15 +3,15 @@
 ## Tópicos:
 
       
-        - [Conceito de Árvore](#conceito-de-árvore)
-        - [Leitura e Impressão de uma Árvore](#leitura-e-impressão-de-uma-árvore)
-        - [Árvore B](#árvore-b)
-        - [Árvore B+](#árvore-b+)
-        - [QuickSort Externo](#quicksort-externo)
-        - [Intercalação Balanceada](#intercalaçăo-balanceada)
-        - [Teoria de Grafos](#teoria-de-grafos)
-        - [Propriedades e uso de Grafos](#propriedades-e-uso-de-grafos)
-        - [Percurso em Grafos](#percurso-em-grafos)
+[Conceito de Árvore](#conceito-de-árvore)
+[Leitura e Impressão de uma Árvore](#leitura-e-impressão-de-uma-árvore)
+[Árvore B](#árvore-b)
+[Árvore B+](#árvore-b+)
+[QuickSort Externo](#quicksort-externo)
+[Intercalação Balanceada](#intercalaçăo-balanceada)
+[Teoria de Grafos](#teoria-de-grafos)
+[Propriedades e uso de Grafos](#propriedades-e-uso-de-grafos)
+[Percurso em Grafos](#percurso-em-grafos)
 
     
 ### [Conceito de Árvore](#conceito-de-árvore)
