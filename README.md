@@ -41,6 +41,11 @@ Existem muitos tipos diferentes de árvores, mas em Estrutura de Dados II, focar
 
 ### [Leitura e Impressão de uma Árvore](#leitura-e-impressão-de-uma-árvore)
 ### [Árvore B](#árvore-b)
+
+A árvore B é usado em estruturas de bancos de dados e gerenciamento de arquivos, é um algoritmo que se baseia na árvore biária, porém ela possui algumas modificações que a toram ela especial, como por exemplo ela é uma árvore onde cada nó possúi mais filhos que uma árvore binária, além de ela possuir uma estrutura de balanceamento.
+
+
+
 ### [Árvore B+](#árvore-b+)
 ### [QuickSort Externo](#quicksort-externo)
 ### [Intercalação Balanceada](#intercalaçăo-balanceada)
